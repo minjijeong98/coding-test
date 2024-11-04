@@ -21,7 +21,7 @@
 baekjoon
 └── S4_11047_동전0
     ├── README.md
-    └── S4_11047_동전0.py
+    └── main.py
 ```
 
 ## Commit Convention
