@@ -3,6 +3,7 @@
 ## Information
 - **link**: https://leetcode.com/problems/valid-palindrome/
 - **category**: Two Pointers, String
+- **reference**: 『파이썬 알고리즘 인터뷰(박상길)』 - 6장 문자열 조작
 - **description**: 주어진 문자열이 팰린드롬인지 확인한다. 대소문자를 구분하지 않으며, 영문자와 숫자만을 대상으로 한다.
 - **to remember**: 대부분의 문자열 작업은 슬라이싱으로 처리하는 편이 가장 빠름
 
